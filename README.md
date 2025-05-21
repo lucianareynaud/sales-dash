@@ -67,6 +67,3 @@ sales-dash/
 └── sales-dash-app/   # Additional application files
 ```
 
-## License
-
-ISC 
